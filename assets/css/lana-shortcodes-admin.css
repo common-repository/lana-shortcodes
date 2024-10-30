@@ -1,0 +1,76 @@
+.mce-i-lana-badges {
+    background-color: #555d66 !important;
+    color: #f5f5f5 !important;
+    font-size: 11px !important;
+    width: 100% !important;
+    border-radius: 5px !important;
+}
+
+.mce-i-lana-badges:before {
+    display: block;
+    content: ' ';
+    background-image: url("data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNTYuODY4IiBoZWlnaHQ9IjU2Ljg2OCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBmaWxsPSJub25lIiBkPSJNLTEtMWg1ODJ2NDAySC0xeiIvPjxnPjxwYXRoIGZpbGw9IiNmZmYiIGQ9Ik00Ni45MzQuMDExVjBoLTM2LjkxYTYuMDk2IDYuMDk2IDAgMDAtNi4wOSA2LjA5djUwLjc3OGwxOS0xMi42NjYgMTkgMTIuNjY2VjE0aDJ2MTFoOVY2LjEzNmMwLTMuMzE3LTIuNjcyLTYuMDQtNi02LjEyNXoiLz48L2c+PC9zdmc+");
+    background-size: 15px 15px;
+    background-repeat: no-repeat;
+    height: 15px;
+    width: 15px;
+    margin: 3px;
+}
+
+.mce-i-lana-button {
+    background-color: #555d66 !important;
+    color: #f5f5f5 !important;
+    font-size: 11px !important;
+    width: 100% !important;
+    border-radius: 5px !important;
+}
+
+.mce-i-lana-button:before {
+    display: block;
+    content: ' ';
+    background-image: url("data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNTEyIiBoZWlnaHQ9IjUxMiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBmaWxsPSJub25lIiBkPSJNLTEtMWg1ODJ2NDAySC0xeiIvPjxnPjxwYXRoIGZpbGw9IiNmZmYiIGQ9Ik0yOTMuNjE0IDI4OS43NDNsNTcuODg2LTM3LjIxLTE4OC44MTUtNTAuNTk0IDUwLjU5MiAxODguODE3IDM3LjIxMS01Ny44ODcgMTA3LjU3NiAxMDcuNTc3IDQzLjEyNi00My4xMjZ6Ii8+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTAgNzEuNTU0VjI5OC40OWgxNTMuOTg1bC0zOC41MjMtMTQzLjc3MyAzMTcuNTc5IDg1LjA5NS04Ni41MTkgNTUuNjE2IDMuMDYyIDMuMDYySDUxMlY3MS41NTR6Ii8+PC9nPjwvc3ZnPg==");
+    background-size: 15px 15px;
+    background-repeat: no-repeat;
+    height: 15px;
+    width: 15px;
+    margin: 3px;
+}
+
+.mce-i-lana-icon {
+    font: 400 20px/1 dashicons !important;
+    line-height: 20px !important;
+    background-color: #555d66 !important;
+    color: #f5f5f5 !important;
+    font-size: 13px !important;
+    border-radius: 5px !important;
+}
+
+.mce-i-lana-icon:before {
+    content: "\f155";
+}
+
+.mce-i-lana-label {
+    font: 400 20px/1 dashicons !important;
+    line-height: 20px !important;
+    background-color: #555d66 !important;
+    color: #f5f5f5 !important;
+    font-size: 13px !important;
+    border-radius: 5px !important;
+}
+
+.mce-i-lana-label:before {
+    content: "\f323";
+}
+
+.mce-i-lana-progress-bar {
+    font: 400 20px/1 dashicons !important;
+    line-height: 20px !important;
+    background-color: #555d66 !important;
+    color: #f5f5f5 !important;
+    font-size: 13px !important;
+    border-radius: 5px !important;
+}
+
+.mce-i-lana-progress-bar:before {
+    content: "\f184";
+}
